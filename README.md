@@ -5,7 +5,6 @@
 This repository contains the pipeline for processing 10x Genomics single-cell RNA-seq data from raw FASTQs to annotated clusters and differential expression. The data are mouse samples aligned to “mm10”.
 
  
-> **Note:** This code was developed and used for the analysis presented in ....  
 
 
  
